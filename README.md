@@ -6,11 +6,15 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning: Android , Python 
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ... Bug Bounty , Tech related
-- 📫 How to reach me: mailto:sumitjat56@gmail.com
+
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning: Android , Python 
+- 💬 Ask me about ... Bug Bounty , Tech related
+- 📫 How to reach me: mailto:sumitjat56@gmail.com

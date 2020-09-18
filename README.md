@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning: Android , Django 
 - 💬 Program Langugae in my radar :  Python , Java
 - 👯 Interest  : Software related ,  security related things 
-- 📫 How to reach me: mailto:sumitjat56@gmail.com
+- 📫 How to reach me: [mail](sumitjat56@gmail.com) [Instagram](instagram.com/sumitjat)

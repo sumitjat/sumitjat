@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning: Android , Python 
-- 💬 Ask me about ... Bug Bounty , Tech related
+- 🌱 I’m currently learning: Android , Django 
+- 💬 Program Langugae in my radar :  Python , Java
+- 👯 Interest  : Software related ,  security related things 
 - 📫 How to reach me: mailto:sumitjat56@gmail.com
